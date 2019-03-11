@@ -1,0 +1,22 @@
+{
+  "name": "testnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdi0/hyperledger-testnet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stdi0/hyperledger-testnet/issues"
+  },
+  "homepage": "https://github.com/stdi0/hyperledger-testnet#readme",
+  "devDependencies": {
+    "fabric-network": "^1.4.0"
+  }
+}
